@@ -1,0 +1,6 @@
+body{
+    background: rgb(31, 156, 83);
+}
+li .done{
+    text-decoration: line-through;
+}
